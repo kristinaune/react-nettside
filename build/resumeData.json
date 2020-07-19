@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Magnus Strand",
+    "occupation":"strategikonsulent i Junior Consulting",
+    "description":"Studerer industriell økonomi og teknologiledelse på NTNU",
+    "image":"profilbilde.png",
+    "bio":"Studerer industriell økonomi og teknologiledelse på NTNU. Ved siden av studiene er jeg strategikonsulent i Junior Consulting og aktiv i linjeforingen til Datateknologi og Kommunikasjonsteknologi, Abakus.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "magnusstrand1996@gmail.com",
+    "phone": "98682929",
+    "address":{
+      "street":"Fjordgata 38",
+      "city":"Trondheim",
+      "state":"Trondheim",
+      "zip": "7010"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1e0jVTlnloUuGrKYFU58ZSmFr02bmvx7h/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/magnusstra",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/magstrand/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/magnusstrand",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/magstrand",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"NTNU Gløshaugen",
+        "degree":"Industriell økonomi og teknologiledelse",
+        "graduated":"Aug. 2019 - d.d.",
+        "description":"Sivilingeniør / Integrert master (2.årstrinn)."
+      },
+      {
+        "school":"NTNU Gløshaugen",
+        "degree":"Datateknologi",
+        "graduated":"Aug. 2018 - jun. 2019",
+        "description":"Sivilingeniør / Integrert master, gikk over til 2.klasse Industriell økonomi etter ett år.)."
+      },
+      {
+        "school":"Rena",
+        "degree":"Hærens befalsskole",
+        "graduated":"Jun. 2015 - jun. 2016",
+        "description":"Ni måneders lederutdanning med praksis etterfulgt av tre måneders fagutdanning påkampkjøretøyet CV90."
+      }
+    ],
+    "work":[
+      {
+        "company":"Skatteetaten",
+        "title":"Summer intern",
+        "years":"Jun. 2020 - d.d.",
+        "description":"Utviklet en applikasjon kalt BEVIS (beregningsvisualisering), med Java backend og React frontend"
+      },
+      {
+        "company":"Junior Consulting",
+        "title":"Strategi-konsulent ",
+        "years":"Feb. 2020 - d.d.",
+        "description":"Norges største studentkonsulentselskap. Vi leverer tjenester innen IT, strategi og design."
+      },
+
+      {
+        "company":"Excited - SFU, NTNU",
+        "title":"Vitenskapelig assistent",
+        "years":"Aug. 2019 - d.d.",
+        "description":"Hjelper 1.årsstudenter med øvinger på arbeidsdag i regi av IDI, institutt for datateknologi og informatikk. Ved siden av arbeidsdag er jeg hovedansvarlig for Catch IDI, en konferanse med mål om å inspirere og motivere studenter og ansatte."      },
+        {
+          "company":"NTNU",
+          "title":"Studentassistent",
+          "years":"Jan. 2020 - jun. 2020",
+          "description":"TDT4100 - Objektorientert programmering med Java. Veileder studenter og godkjenner øvinger."
+        },
+        {
+          "company":"Vulkanfisk",
+          "title":"Servitør",
+          "years":"Jun. 2019 - aug. 2019",
+          "description":"Deltidsansatt i påsken og fulltidsansatt juni-august med stengeansvar."
+        },
+        {
+          "company":"Kampeskadronen, Hæren",
+          "title":"Nestkommanderende og vognkommandør",
+          "years":"Jul. 2016 - jul. 2018",
+          "description":"Som nestkommanderende var jeg nestleder for 44 personer i stormtroppen og gruppeleder for 22 soldater. I stillingen hadde jeg hovedansvaret for troppens materiell og all administrativ planlegging. Ved siden av dette var jeg avdelingens hovedinstruktør på kjøretøy."
+        }
+    ],
+    "verv":[
+      
+      {
+        "company":"Fagkomitéen, Abakus linjeforening",
+        "title":"Leder",
+        "years":"Feb. 2019 - mar. 2020",
+        "description":"Den faglige komitéen i Abakus, Fagkom, har som hovedoppgave å tilby et bredt spekter lærerike arrangementer til studentene i Abakus. Som leder for komitéen har jeg ansvar for HR og daglig drift."      },
+        {
+          "company":"Abakus linjeforening",
+          "title":"Medlem av Hovedstyret",
+          "years":"Mar. 2019 - mar. 2020",
+          "description":"Som leder av Fagkom er jeg også en del av Hovedstyret til Abakus, Gløshaugens største linjeforening. Hovedstyret har ansvaret for linjeforeningens daglige drift og styrer linjeforeningen i henhold til dens statutter og strategidokument."      },
+          {
+            "company":"Fagkomitéen, Abakus linjeforening",
+            "title":"Nesteder",
+            "years":"Sep. 2018 - feb. 2020",
+            "description":"Som nestleder hadde jeg ansvar for det administrative og økonomien i komitéen."      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"50%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Github søkemotor",
+        "category":"Prosjekt for å lære react",
+        "image":"github.png",
+        "url":"https://magnus-github-search.netlify.app/"
+      }
+    ]
+  }
+
+}
