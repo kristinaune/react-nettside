@@ -126,9 +126,9 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Statisk html- og css-nettside",
-        "category":"Prosjekt for å lære html og css",
-        "image":"css.jpg",
+        "title":"Github søkemotor",
+        "category":"Prosjekt for å lære react",
+        "image":"github.png",
         "url":"https://magnus-github-search.netlify.app/"
       }
     ]
