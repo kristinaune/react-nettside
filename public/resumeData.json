@@ -80,55 +80,28 @@
     "verv":[
       
       {
-        "company":"Fagkomitéen, Abakus linjeforening",
-        "title":"Leder",
-        "years":"Feb. 2019 - mar. 2020",
-        "description":"Den faglige komitéen i Abakus, Fagkom, har som hovedoppgave å tilby et bredt spekter lærerike arrangementer til studentene i Abakus. Som leder for komitéen har jeg ansvar for HR og daglig drift."      },
+        "company":"itDAGENE",
+        "title":"Nestleder",
+        "years":"Sep. 2019 - d.d",
+        "description":"Som nestleder av årets itDAGER har jeg et overordnet ansvar for den daglige driften og planleggingen"      },
         {
-          "company":"Abakus linjeforening",
-          "title":"Medlem av Hovedstyret",
-          "years":"Mar. 2019 - mar. 2020",
-          "description":"Som leder av Fagkom er jeg også en del av Hovedstyret til Abakus, Gløshaugens største linjeforening. Hovedstyret har ansvaret for linjeforeningens daglige drift og styrer linjeforeningen i henhold til dens statutter og strategidokument."      },
+          "company":"Fagkomitéen, Abakus linjeforening",
+          "title":"Medlem og sosialansvarlig",
+          "years":"Sep. 2018 - d.d",
+          "description":"Den faglige komitéen i Abakus, Fagkom, har som hovedoppgave å tilby et bredt spekter lærerike arrangementer til studentene i Abakus."      },
           {
-            "company":"Fagkomitéen, Abakus linjeforening",
-            "title":"Nesteder",
-            "years":"Sep. 2018 - feb. 2020",
-            "description":"Som nestleder hadde jeg ansvar for det administrative og økonomien i komitéen."      }
-    ],
-    "skills":[
-      {
-        "name":"Java",
-        "level":"70%"
-      },
-      {
-        "name":"Python",
-        "level":"50%"
-      },
-      {
-        "name":"Git",
-        "level":"50%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"40%"
-      },
-      {
-        "name":"TypeScript",
-        "level":"40%"
-      },
-      {
-        "name":"HTML5",
-        "level":"40%"
-      }
-      
+            "company":"Vektorprogrammet",
+            "title":"Vektorassistent",
+            "years":"Aug. 2018 - des. 2018",
+            "description":"Som vektorassistent ble jeg utplassert på en ungdomsskole i Trondheim og bistod i matematikk og naturfag"      }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Github søkemotor",
-        "category":"Prosjekt for å lære react",
-        "image":"github.png",
+        "title":"Statisk html- og css-nettside",
+        "category":"Prosjekt for å lære html og css",
+        "image":"css.jpg",
         "url":"https://magnus-github-search.netlify.app/"
       }
     ]
