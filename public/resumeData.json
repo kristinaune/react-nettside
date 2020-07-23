@@ -6,30 +6,30 @@
     "image":"meg.jpg",
     "bio":"Initiativrik og strukturert student som tar en master i industriell økonomi og teknologiledelse på NTNU. Karrierevalget kom som et naturlig valg grunnet interesse for realfag, økonomi og IT gjennom oppveksten. Skolegangen på NTNU startet på Datateknologi, grunnet manglende muligheter for økonomiske fag byttet jeg studie etter det første året. Ved siden av studiene jobber jeg som strategikonsulent i Junior Consulting, norges største studentkonsulentselskap. Ved siden av dette jobber jeg som studentassistent ved NTNU. Innenfor linjeforeningen Abakus har jeg vært leder for fagkomitéen, i tillegg til hovedstyremedlem. Før studiene gikk jeg Hærens Befalsskole og jobbet to år i forsvaret. Gjennom arbeidet i forsvaret, deltidsjobbene i Trondheim og vervene i linjeforeningen har jeg lært svært mye om instruksjon, struktur og teamarbeid.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "magnusstrand1996@gmail.com",
-    "phone": "98682929",
+    "email": "aune.kri@gmail.com",
+    "phone": "46845103",
     "address":{
-      "street":"Fjordgata 38",
+      "street":"Holtermannsveg 19",
       "city":"Trondheim",
       "state":"Trondheim",
-      "zip": "7010"
+      "zip": "7031"
     },
-    "website": "magnus-strand.netlify.app",
-    "resumedownload":"https://drive.google.com/file/d/1Fc8U6dMlgJ7kpe6elRObLls1eHwlM_2k/view?usp=sharing",
+    "website": "https://kristin-aune.netlify.app/",
+    "resumedownload":"https://drive.google.com/file/d/1HxlQbKP_5FfLD_l3wz9qKrFL4K8hFCpN/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/magnusstra",
+        "url":"https://www.facebook.com/aune.kri",
         "className":"fa fa-facebook"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/magstrand/",
+        "url":"https://www.linkedin.com/in/kristin-aune/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/magstrand",
+        "url":"https://github.com/kristinaune",
         "className":"fa fa-github"
       }
     ]
@@ -39,59 +39,42 @@
     "education":[
       {
         "school":"NTNU Gløshaugen",
-        "degree":"Industriell økonomi og teknologiledelse",
-        "graduated":"Aug. 2019 - d.d.",
+        "degree":"Datateknologi",
+        "graduated":"Aug. 2018 - d.d.",
         "description":"Sivilingeniør / Integrert master (3.årstrinn)."
       },
       {
         "school":"NTNU Gløshaugen",
-        "degree":"Datateknologi",
-        "graduated":"Aug. 2018 - jun. 2019",
-        "description":"Sivilingeniør / Integrert master, gikk over til 2.klasse Industriell økonomi etter ett år."
-      },
-      {
-        "school":"Rena",
-        "degree":"Hærens befalsskole",
-        "graduated":"Jun. 2015 - jun. 2016",
-        "description":"Ni måneders lederutdanning med praksis etterfulgt av tre måneders fagutdanning påkampkjøretøyet CV90."
+        "degree":"Matematikk",
+        "graduated":"Aug. 2017 - jun. 2018",
+        "description":"Årsstudium"
       }
+
     ],
     "work":[
       {
-        "company":"Skatteetaten",
-        "title":"Summer intern",
-        "years":"Jun. 2020 - d.d.",
-        "description":"Utviklet en applikasjon kalt BEVIS (beregningsvisualisering), med Java backend og React frontend."
+        "company":"Det nasjonale aldershjemmet for sjømenn ",
+        "title":"Pleieassistent ",
+        "years":"jun. 2018 - d.d.",
+        "description":"Deltidsansatt på sykehjem for eldre"
       },
       {
-        "company":"Junior Consulting",
-        "title":"Strategi-konsulent ",
-        "years":"Feb. 2020 - d.d.",
-        "description":"Norges største studentkonsulentselskap. Vi leverer tjenester innen IT, strategi og design."
+        "company":"Ingris Isbar",
+        "title":"Daglig leder ",
+        "years":"Mar. 2016- aug. 2017",
+        "description":"Lederansvar for 15 deltidsansatte"
       },
 
       {
-        "company":"Excited - SFU, NTNU",
-        "title":"Vitenskapelig assistent",
-        "years":"Aug. 2019 - d.d.",
-        "description":"Hjelper 1.årsstudenter med øvinger på arbeidsdag i regi av IDI, institutt for datateknologi og informatikk. Ved siden av arbeidsdag er jeg hovedansvarlig for Catch IDI, en konferanse med mål om å inspirere og motivere studenter og ansatte."      },
+        "company":"Hotell Wassillioff",
+        "title":"Deltidsansatt",
+        "years":"Mar. 2014 - Mar. 2016",
+        "description":"Hadde delvis ansvar for frokosten på hotellet, samt jobbet i hotellets isbar, Ingris Isbar" },
         {
-          "company":"NTNU",
-          "title":"Studentassistent",
-          "years":"Jan. 2020 - jun. 2020",
-          "description":"TDT4100 - Objektorientert programmering med Java. Veileder studenter og godkjenner øvinger."
-        },
-        {
-          "company":"Vulkanfisk",
-          "title":"Servitør",
-          "years":"Jun. 2019 - aug. 2019",
-          "description":"Deltidsansatt i påsken og fulltidsansatt juni-august med stengeansvar."
-        },
-        {
-          "company":"Kampeskadronen, Hæren",
-          "title":"Nestkommanderende og vognkommandør",
-          "years":"Jul. 2016 - jul. 2018",
-          "description":"Som nestkommanderende var jeg nestleder for 44 personer i stormtroppen og gruppeleder for 22 soldater. I stillingen hadde jeg hovedansvaret for troppens materiell og all administrativ planlegging. Ved siden av dette var jeg avdelingens hovedinstruktør på kjøretøy."
+          "company":"Marin Alpin Stavern",
+          "title":"Salgsmedarbeider",
+          "years":"Jun. 2013 - aug. 2013",
+          "description":"Ansatt i klesbutikk"
         }
     ],
     "verv":[
