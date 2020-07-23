@@ -94,6 +94,33 @@
             "title":"Vektorassistent",
             "years":"Aug. 2018 - des. 2018",
             "description":"Som vektorassistent ble jeg utplassert på en ungdomsskole i Trondheim og bistod i matematikk og naturfag"      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"40%"
+      },
+      {
+        "name":"HTML5",
+        "level":"40%"
+      }
+      
     ]
   },
   "portfolio":{
