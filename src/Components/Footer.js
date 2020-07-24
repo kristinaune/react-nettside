@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; 2020 Magnus Strand</li>
+              <li>&copy; 2020 Kristin Aune</li>
               <li>Designet med <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
