@@ -4,7 +4,7 @@
     "occupation":"",
     "description":"Studerer datateknologi på NTNU",
     "image":"meg.jpg",
-    "bio":"Initiativrik og strukturert student som tar en master i industriell økonomi og teknologiledelse på NTNU. Karrierevalget kom som et naturlig valg grunnet interesse for realfag, økonomi og IT gjennom oppveksten. Skolegangen på NTNU startet på Datateknologi, grunnet manglende muligheter for økonomiske fag byttet jeg studie etter det første året. Ved siden av studiene jobber jeg som strategikonsulent i Junior Consulting, norges største studentkonsulentselskap. Ved siden av dette jobber jeg som studentassistent ved NTNU. Innenfor linjeforeningen Abakus har jeg vært leder for fagkomitéen, i tillegg til hovedstyremedlem. Før studiene gikk jeg Hærens Befalsskole og jobbet to år i forsvaret. Gjennom arbeidet i forsvaret, deltidsjobbene i Trondheim og vervene i linjeforeningen har jeg lært svært mye om instruksjon, struktur og teamarbeid.",
+    "bio":"Jeg er ei motivert og strukturert jente som studerer datateknologi på NTNU i Trondheim. Jeg skal nå starte på mitt 3. år og har valgt retningen programvareutvikling. Ved siden av studiene er jeg aktiv i studenforeningsarbeid, og jobber nå blant annet med å arrangere itDAGENE 2021 i samarbeid med mange store IT-bedrifter. I tillegg til det er jeg en del av den faglige komiteen i linjeforeningen Abakus. Her arrangerer vi kurs med faglige innhold sammen med IT-bedrifter fra hele Norge.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "aune.kri@gmail.com",
     "phone": "46845103",
@@ -126,10 +126,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Github søkemotor",
-        "category":"Prosjekt for å lære react",
-        "image":"github.png",
-        "url":"https://magnus-github-search.netlify.app/"
+        "title":"HTML og CSS statisk nettside",
+        "category":"Prosjekt for å lære statisk programmering med html og css.",
+        "image":"css.jpg",
+        "url":"https://github.com/kristinaune/nettside"
       }
     ]
   }
